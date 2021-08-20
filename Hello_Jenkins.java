@@ -1,4 +1,4 @@
-public class Hello_Jenkins {
+public class Main {
     public static void main(String[] args){
         System.out.println("Hello Jenkins! This is my first build");
     }
